@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sai's Ice Cream Shop</title>
+</head>
+<body style="background-color: rgb(101, 218, 149);">
+    <h1 style= "color: crimson; text-align: center;"> Sai's Dream Scoops </h1>
+    <p style="font-size: large; font-family: serif;">Welcome to the weirdest, funniest and most hobbit-ish ice-cream shop in existence. A Elbereth gilthoniel!</p>
+    <h1>OUR FLAVOURS</h1>
+    <li>
+        <ul>Mellyrn Ice-cream</ul>
+        <ul>Hobbit Recommended</ul>
+        <ul>Grass of the Rohirrim</ul>
+        <ul>The Much Awaited Willy Wonka's Hot Ice Cream</ul>
+        <ul>Herbs from Ithilien</ul>
+        <ul>Imladris Special</ul>
+        <ul>Palantir Magic Ice Cream</ul>
+    </li>
+    <h1>Wacky Toppings</h1>
+    <p>These are our crazy toppings</p>
+    <li>
+        <ul>Ancient Roman Fish Guts Sauce</ul>
+        <ul>Boiled Elanor</ul>
+        <ul>Nimphredil Ash</ul>
+        <ul>Dust of Lothlorien</ul>
+    </li>
+    <img src="https://i.ytimg.com/vi/9HWEA1os-sw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDCl31n6ha7UWMlur9TO6y5sLrUwg" alt="Gandalf eating Ice Cream">
+</body>
+</html>
